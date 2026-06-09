@@ -43,6 +43,3 @@ public class TaxBracket {
     }
 }
 
-
-//Task
-//Student grade system using conditional statements
