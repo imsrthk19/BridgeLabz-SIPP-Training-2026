@@ -1,13 +1,12 @@
-
-public class Bank
+class Ravi
 {
-    string name;
+    String name;
     int age;
-    string rank;
+    String rank;
     double salary;
     float fees;
 
-public Ravi(string name, int age, string name, double salary, float fees) {
+public Ravi(String name, int age, String rank, double salary, float fees) {
     this.name = name;
     this.age = age;
     this.rank = rank;
@@ -16,8 +15,7 @@ public Ravi(string name, int age, string name, double salary, float fees) {
 }
 
 public static void main(String[] args) {
-    Ravi r = new Ravi("Sahil",18, "intermediate", 180000.00,12345f);
-    Ravi r2 = new Ravi();
-    System.out.println();
+    Ravi r = new Ravi("Sahil",18,"intermediate",180000.00, 12345f);
+    System.out.println(r);
 }
 }
