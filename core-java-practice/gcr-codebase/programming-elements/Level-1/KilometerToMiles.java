@@ -6,7 +6,6 @@ public class KilometerToMiles {
 
         double distanceInMiles = distanceInKm / kmPerMile;
 
-        System.out.println("The distance " + distanceInKm +
-                " km in miles is " + distanceInMiles);
+        System.out.println("The distance " + distanceInKm + " km in miles is " + distanceInMiles);
     }
 }
