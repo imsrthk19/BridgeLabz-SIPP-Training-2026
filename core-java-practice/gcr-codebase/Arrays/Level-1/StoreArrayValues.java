@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class StoreArrayValues {
     public static void main(String[] args) {
         
