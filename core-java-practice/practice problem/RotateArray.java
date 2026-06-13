@@ -7,6 +7,6 @@ public class RotateArray{
         int [] temp= new int[size];
         for(int i=0; i<size; i++){
             temp[(i+k)%size]= arr[i];
-        } 
+        }
     }
 }
