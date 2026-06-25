@@ -1,5 +1,5 @@
 import java.util.*;
-public class LargestAndSecongLargestD
+public class LargestAndSecondLargest{
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -41,6 +41,4 @@ public class LargestAndSecongLargestD
 
         sc.close();
     }
-} {
-    
 }
