@@ -49,5 +49,7 @@ public class PasswordChecker {
         catch (WeakPasswordException e) {
             System.out.println(e.getMessage());
         }
+        
+        sc.close();
     }
 }

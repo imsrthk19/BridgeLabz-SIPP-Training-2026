@@ -1,7 +1,7 @@
 public class WeakPasswordException extends Exception {
     String password;
     public WeakPasswordException(String Password){
-        this.password = password;
+        this.password = Password;
     }
 
     @Override
