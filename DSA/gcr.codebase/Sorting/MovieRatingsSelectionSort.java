@@ -1,7 +1,9 @@
 package Sorting;
+
 import java.util.Arrays;
 
 public class MovieRatingsSelectionSort {
+    
     public static void main(String[] args) {
         int[] ratings1 = {8, 5, 9, 7, 6, 10};
         System.out.println("Example 1 Input: " + Arrays.toString(ratings1));
