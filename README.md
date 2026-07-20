@@ -5,7 +5,7 @@ This repository contains my practice programs, assignments, coding exercises, an
 The repository follows the recommended GitHub structure and branch naming conventions provided during the training.
 
 ---
-
+```text
 # Repository Structure
 BridgeLabz-SIPP-Training-2026
 │
@@ -64,7 +64,7 @@ BridgeLabz-SIPP-Training-2026
 │
 │
 └── reviews/
-
+```
 
 ---
 
