@@ -1,4 +1,4 @@
-package DSA.gcr_codebase.Tree;
+// package DSA.gcr_codebase.Tree;
 public class ValidatePricingIndex {
     static class Node {
         int val;
